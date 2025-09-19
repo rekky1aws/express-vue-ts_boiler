@@ -17,3 +17,11 @@ cd client
 npm install
 cd ..
 ```
+
+## Developpement
+Open two terminals and in both `client/` & `server/` directories run :
+```bash
+npm run dev
+```
+
+In `client/` there is the most basic example on how to fetch data from the backend with a button.
